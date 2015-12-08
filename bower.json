@@ -1,0 +1,8 @@
+{
+  "name": "HelloIonic",
+  "private": "true",
+  "devDependencies": {
+    "cordova.plugins": "D:\\Development\\MYOM\\plugins\\cordova.plugins.diagnostic",
+    "ionic": "driftyco/ionic-bower#1.1.1"
+  }
+}
