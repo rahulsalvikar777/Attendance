@@ -67,4 +67,6 @@
     <splash src="resources/ios/splash/Default@2x~iphone.png" height="960" width="640"/>
     <splash src="resources/ios/splash/Default~iphone.png" height="480" width="320"/>
   </platform>
+  <plugin name="com.ionic.keyboard" spec="1.0.3" source="pgb" />
+
 </widget>
